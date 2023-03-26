@@ -1,6 +1,6 @@
 # Hello, welcome to my Github <a href="https://emoji.gg/emoji/5940-paimon-dumb"><img src="https://cdn3.emoji.gg/emojis/5940-paimon-dumb.png" width="64px" height="64px" alt="paimon_dumb">
   
-<a href=https://www.facebook.com/xpnguyen2428 target="_blank"/> <img src="https://img.shields.io/badge/-Facebok-blue"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
+<a href=https://www.facebook.com/xpnguyen2428 target="_blank"/> <img src="https://img.shields.io/badge/-Facebok-blue"> </a> <img src="https://komarev.com/ghpvc/?username=XPNguyenDL&color=blue">
 
 ✨ My name is Nguyen Xuan Phat. I’m interested in Deverloper Website 💻
 AKA ファット。
