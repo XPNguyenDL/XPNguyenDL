@@ -1,5 +1,4 @@
 ## Hi there! Junta here
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sajidulkabir.adib/)
 </p>
 ✨ My name is Nguyen Xuan Phat, a dotnet core back-end developer. </p>
 I specialize in designing and implementing robust server-side solutions for modern web applications. 💻
