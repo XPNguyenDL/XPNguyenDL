@@ -2,7 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&vCenter=true&multiline=true&width=580&height=70&lines=Coders+debug+life's+glitches." alt="Typing SVG" /></a>
 
-My name is Nguyen Xuan Phat, a fullstack developer. </br>
+My name is Nguyen Xuan Phat, a fullstack developer. 
+</br>
 
 ```ruby
 const junn = {
@@ -15,3 +16,4 @@ const junn = {
   toeic: 705
 }
 ```
+<p align="end"> <img src="https://komarev.com/ghpvc/?username=XPNguyenDL&label=Profile%20views&color=9DBDFF&style=flat" alt="xpnguyendl" /> </p> 
