@@ -10,7 +10,7 @@ const junn = {
   name: 'Nguyen Xuan Phat',
   age: 22,
   school: 'Dalat University',
-  work: 'VNPT',
+  work: 'VNPT LDG',
   languages: ["javascript", "c#"],
   framework: ["asp.net core", "angular"]
   toeic: 705
