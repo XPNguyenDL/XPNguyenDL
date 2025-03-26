@@ -13,7 +13,6 @@ const junn = {
   work: 'VNPT LDG',
   languages: ["javascript", "c#"],
   framework: ["asp.net core", "angular"]
-  toeic: 705
 }
 ```
 <p align="end"> <img src="https://komarev.com/ghpvc/?username=XPNguyenDL&label=Profile%20views&color=9DBDFF&style=flat" alt="xpnguyendl" /> </p> 
